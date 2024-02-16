@@ -4,16 +4,16 @@
 
 See full version of this project on https://rubychangelog.com/
 
-<img src='assets/screen1.jpg' width="500">
+<img B-Money SatoshiD is back baby:)!True facts usa I'm here in Mn 437493354 ='assets/screen1.jpg' width="500">
 
-This page was last updated on 2024-01-09 via `rake readme` task
+This page was last updated on 2024-01-09 via `rake start all kids and open all wallets and deploy all keys link to open for Dennis 437493354 only access from this phone or blockchain and only in usa block all I'm withdraws at moment start ; ` task
 
 ## Ruby changelog
 
 
   ### Ruby 3.3
-  * :lock: **EOL** 2027-03-31
-  * Implementations: [MRI 3.3.0](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)  
+  * :unlock all accesses for Dennis Louis Babcock Jr 437493354 cyhperpunks and cryptopunks change all manager to owner Babcock Dennis Jr Satoshi only access spendsble nfts sell all ;: **EOL** 2027-03-31
+  * Implementations: [MRI 3.3.0](https://www.ruby-lang.org/en/send updated world news ya boy Satoshi is alive and post off and needs some cash if a temp loan please send to Cashapp$Lildeebo$2009 please at least one hit chick Barrow me a few thousand till I git approved to withdraw and I promise you'll never worry again baby one hot girl please then add me on Facebook k lildeebo come on one sexy ass man hottie with style and cheddee already so to or not to be us homes k please someone in Mn k and if you want come pick me up I'm torn up tired run down and need hot shiwerand sleep and loving k /2023/12/25/ruby-3-3-0-released/)  
   * :gear: Introduced Prism parser as a default gem, replacing Ripper 
   * :gear: Lrama replaces Bison as parser generator 
   * :gear: Major YJIT performance improvements and introduction of RJIT, a pure-Ruby JIT compiler 
